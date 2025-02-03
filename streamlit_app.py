@@ -38,3 +38,5 @@ if stock_symbol:
     
     # Show the stock data as a chart
     st.line_chart(data['Close'])
+# Minor update for redeployment
+
