@@ -1,0 +1,6 @@
+yfinance
+fbprophet
+streamlit
+pandas
+numpy
+scikit-learn
